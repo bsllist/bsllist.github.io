@@ -54,13 +54,13 @@ function display() {
     
     /* and then we lay out the information into a set format */
     output += `
-      <div ${topbottom} ${bgcol} level>                                                   /* level container                                               */
-        <div arial normal>                                                                /* level info                                                    */
-          #${parseInt(i)+1}:                                                              /* level placement                                               */
-          <a href="http://${item[2]}">                                                    /* level video                                                   */
-            <color blue>${item[0]}</color>                                                /* level name (blue color because it's a link)                   */
-          </a>                                                                            /* I just wanted to put a comment here for aesthetic reasons lol */
-          ${item[1]} <br> <div small>ID: ${item[3]}; FPS: ${item[4]}; WR: ${item[5]}      /* misc level data                                               */
+      <div ${topbottom} ${bgcol} level>                                                   <!--- level container                                               -->
+        <div arial normal>                                                                <!--- level info                                                    -->
+          #${parseInt(i)+1}:                                                              <!--- level placement                                               -->
+          <a href="http://${item[2]}">                                                    <!--- level video                                                   -->
+            <color blue>${item[0]}</color>                                                <!--- level name (blue color because it's a link)                   -->
+          </a>                                                                            <!--- I just wanted to put a comment here for aesthetic reasons lol -->
+          ${item[1]} <br> <div small>ID: ${item[3]}; FPS: ${item[4]}; WR: ${item[5]}      <!--- misc level data                                               -->
         </div>
       </div>
     </div>
