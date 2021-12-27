@@ -1,9 +1,25 @@
   /* set up display */
 document.body.innerHTML = 
 `
-<img src="logo.png" width="${innerWidth - 5}" height="${innerWidth * 0.0851165002}"></img><img src="info.png"></img>
-<div id="list" levels>${display()}</div><br><br>
-<div pusab big>Website by nurdPi, List by Paintball</div>
+<img src="logo.png" width="${innerWidth - 5}" height="${innerWidth * 0.0851165002}">
+</img>
+
+<img src="info.png" style="
+  position: fixed;
+  top: 0px
+  right: 0px
+">
+</img>
+
+<div id="list" levels>${display()}
+</div>
+
+<br>
+<br>
+
+<div pusab big>
+Website by nurdPi, List by Paintball
+</div>
 `
   /* display function, turns level data into html */
 function display() {
