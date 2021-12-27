@@ -23,8 +23,8 @@ document.body.innerHTML =
     This is a website made by  
     <img src="nurd.png" width="20px" height="20px"></img>nurdPi and 
     <img src="wibb.png" width="20px" height="20px"></img>Wibbuffey
-    <br>
-    <color blue><a href="https://docs.google.com/document/d/1zHOH1r_tKI7MNV08tNRaplz0AhlhNIi3RtWSGYCwDQs/edit">List Document</a></color>
+    <br><br>
+    The backup list and the rules are kept in a <color blue><a href="https://docs.google.com/document/d/1zHOH1r_tKI7MNV08tNRaplz0AhlhNIi3RtWSGYCwDQs/edit">Google Doc</a></color> made by PaintBall.
   </div>
   
   <button onclick="info.setAttribute('show', false)"><div big pusab>Ok</div></button>
