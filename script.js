@@ -1,26 +1,36 @@
   /* set up display */
 document.body.innerHTML = 
 `
-<img src="logo.png" width="${innerWidth - 5}" height="${innerWidth * 0.0851165002}">
-</img>
-
-<img width="${innerWidth * 0.01}" height="${innerWidth * 0.01}" src="info.png" style="
-  position: fixed;
-  top: 0px;
-  right: 0px;
+<img src="logo.png" width="${innerWidth - (innerWidth * 0.02)}" height="${(innerWidth - (innerWidth * 0.02)) * 0.0851165002}" style="
+  margin-left: -30px;
 ">
 </img>
 
+<info onclick="info.setAttribute('show', true)" style="
+  position: fixed;
+  top: 4%;
+  right: 2%;
+">
+</info>
 <div id="list" levels>${display()}
 </div>
 
 <br>
 <br>
 
-<div pusab big>
-Website by nurdPi, List by Paintball
-</div>
-`
+<menu show=false>
+  <div arial small>
+    This is a website made by  
+    <img src="nurd.png" width="20px" height="20px"></img>nurdPi and 
+    <img src="wibb.png" width="20px" height="20px"></img>Wibbuffey
+    <br>
+    <color blue><a href="https://docs.google.com/document/d/1zHOH1r_tKI7MNV08tNRaplz0AhlhNIi3RtWSGYCwDQs/edit">List Document</a></color>
+  </div>
+  
+  <button onclick="info.setAttribute('show', false)"><div big pusab>Ok</div></button>
+</menu>
+`;
+var info = document.querySelector("menu");
   /* display function, turns level data into html */
 function display() {
   var
