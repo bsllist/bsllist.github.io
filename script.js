@@ -4,10 +4,10 @@ document.body.innerHTML =
 <img src="logo.png" width="${innerWidth - 5}" height="${innerWidth * 0.0851165002}">
 </img>
 
-<img src="info.png" style="
+<img width="${innerWidth * 0.01}" height="${innerWidth * 0.01}" src="info.png" style="
   position: fixed;
-  top: 0px
-  right: 0px
+  top: 0px;
+  right: 0px;
 ">
 </img>
 
