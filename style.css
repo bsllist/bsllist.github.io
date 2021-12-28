@@ -1,3 +1,15 @@
+@keyframes expand {
+  
+  from {padding: 4px;}
+  to {padding: 8px;}
+  
+}
+@keyframes shrink {
+  
+  from {padding: 8px;}
+  to {padding: 4px;}
+  
+}
 * {
 
   padding: 0px;
@@ -53,69 +65,23 @@ body {
 }
 button {
   
+  animation-name: shrink;
+  animation-duration: 1s;
   border-radius: 12px;
-  padding-left: 10px;
-  padding-right: 10px;
   background: linear-gradient(#C7FC53, #46A20B);
   border-color: #fff;
   border-width: 2.5px;
   cursor: pointer;
   box-shadow: 0px 0px 0px 2.5px #000 inset;
   margin: 8px;
+  padding: 4px;
   
 }
 button:active {
   
-  border-radius: 12px;
-  background: linear-gradient(#C7FC53, #46A20B);
-  border-color: #fff;
-  border-width: 2.5px;
-  cursor: pointer;
-  box-shadow: 0px 0px 0px 2.5px #000 inset;
-  
-}
-button[off] {
-  
-  border-radius: 12px;
-  margin: 10px;
-  padding: 5px;
-  background: linear-gradient(#995522, #773300);
-  border-color: #fff;
-  border-width: 2.5px;
-  box-shadow: 0px 0px 0px 2.5px #000 inset;
-  
-}
-button:active[off] {
-  
-  border-radius: 12px;
-  margin: 10px;
-  padding: 5px;
-  background: linear-gradient(#995522, #773300);
-  border-color: #fff;
-  border-width: 2.5px;
-  box-shadow: 0px 0px 0px 2.5px #000 inset;
-  
-}
-button[on] {
-  
-  border-radius: 12px;
-  margin: 10px;
-  padding: 5px;
-  background: linear-gradient(#C7FC53, #46A20B);
-  border-color: #fff;
-  border-width: 2.5px;
-  box-shadow: 0px 0px 0px 2.5px #000 inset;
-  
-}
-button:active[on] {
-  
-  border-radius: 12px;
-  margin: 10px;
-  padding: 5px;
-  background: linear-gradient(#C7FC53, #46A20B);
-  border-color: #fff;
-  border-width: 2.5px;
-  box-shadow: 0px 0px 0px 2.5px #000 inset;
+  animation-name: expand;
+  animation-duration: 0.5s;
+  padding: 8px;
   
 }
 img[icon] {
@@ -202,7 +168,7 @@ img[side] {
 menu {
   
   animation-name: ex;
-  animation-duration: 1s;
+  animation-duration: 0.5s;
   background-color: #001931;
   position: fixed;
   left: 50%;
@@ -248,7 +214,6 @@ div[menu] button[bottom] {
   text-align: center;
   
 }
-
 @keyframes a {
   
   from {padding: 1.5%;}
@@ -271,7 +236,7 @@ info {
   padding: 1%;
   
 }
-info:hover {
+info:active {
   
   animation-name: b;
   animation-duration: 1s;
