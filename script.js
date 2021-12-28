@@ -17,14 +17,31 @@ document.body.innerHTML =
 
 <br>
 <br>
+<br>
+<div pusab big>List Owned by Paintball</div>
 
 <menu show=false>
+  <div pusab gold bigger>List Information</div>
+  <br>
   <div arial small>
-    This is a website made by  
-    <img src="nurd.png" width="20px" height="20px"></img>nurdPi and 
-    <img src="wibb.png" width="20px" height="20px"></img>Wibbuffey
+    This is a website made by   
+    <img cube src="https://gdpseditor.gdbrowser.com/icon/icon?icon=89&form=cube&col1=18&col2=11" width="20px" height="20px"></img><color gold><a>nurdPi</a></color>and
+    <img cube src="https://gdpseditor.gdbrowser.com/icon/icon?icon=1&form=cube&col1=0&col2=3" width="20px" height="20px"></img><color gold><a>Wibbuffy</a></color>
     <br><br>
-    The backup list and the rules are kept in a <color blue><a href="https://docs.google.com/document/d/1zHOH1r_tKI7MNV08tNRaplz0AhlhNIi3RtWSGYCwDQs/edit">Google Doc</a></color> made by PaintBall.
+    The backup list is kept in a <color blue><a href="https://docs.google.com/document/d/1zHOH1r_tKI7MNV08tNRaplz0AhlhNIi3RtWSGYCwDQs/edit">Google Doc</a></color> made by PaintBall.
+  </div>
+  <br>
+  <br>
+  <div pusab gold bigger>List Rules</div>
+  <br>
+  <div arial>
+      1: Levels must be considered bullshit and stupid.<br>
+      2: Levels must be physically and humanly possible.<br>
+      3: Levels must be finished and of shitty quality.<br>
+      4: Minimum level length is 30 seconds.<br>
+      5: Copies or Modified versions of levels are not allowed (unless the level is changed enough to be barely identical)<br>
+      6: Gameplay, deco, and general quality standards do not exist.<br>
+      7: World records have a minimum progress percentage based on the level’s placement on the list.
   </div>
   
   <button onclick="info.setAttribute('show', false)"><div big pusab>Ok</div></button>
