@@ -207,11 +207,6 @@ menu {
   -webkit-text-stroke-width: 0px;
   
 }
-div[menu] button[bottom] {
-  
-  text-align: center;
-  
-}
 @keyframes a {
   
   from {padding: 1.5%;}
