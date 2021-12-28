@@ -168,7 +168,7 @@ img[side] {
 menu {
   
   animation-name: ex;
-  animation-duration: 0.5s;
+  animation-duration: 1s;
   background-color: #001931;
   position: fixed;
   left: 50%;
@@ -229,7 +229,7 @@ div[menu] button[bottom] {
 info {
   
   animation-name: a;
-  animation-duration: 1s;
+  animation-duration: 0.5s;
   transform: translate(50%, -50%);
   background-image: url(info.png);
   background-size: cover;
