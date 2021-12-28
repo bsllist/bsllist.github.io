@@ -167,8 +167,6 @@ img[side] {
 }
 menu {
   
-  animation-name: ex;
-  animation-duration: 1s;
   background-color: #001931;
   position: fixed;
   left: 50%;
@@ -246,6 +244,8 @@ info:active {
 }
 menu[show=true] {
   
+  animation-name: ex;
+  animation-duration: 0.5s;
   visibility: visible;
   
 }
