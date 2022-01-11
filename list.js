@@ -25,6 +25,14 @@ var
       , "None" // WR text
     ]
     , [
+      "Clubstep" // name
+      , "by nurdPi" // author(s)
+      , "youtu.be/qClWNM7hu8M" // link
+      , 77185951 // id
+      , 60 // fps
+      , "None" // WR text
+    ]
+    , [
       "Story Madness" // name
       , "by Reontz" // author(s)
       , "youtu.be/avvUMNJLohc " // link
