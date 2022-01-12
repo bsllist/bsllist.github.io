@@ -83,7 +83,7 @@ function display() {
     output += `
       <div ${topbottom} ${bgcol} level>                                                   <!--- level container                                               -->
         <div arial normal>                                                                <!--- level info                                                    -->
-          #${parseInt(i)+1}:                                                              <!--- level placement                                               -->
+          #${parseInt(i)-1}:                                                              <!--- level placement                                               -->
           <a href="http://${item[2]}">                                                    <!--- level video                                                   -->
             <color blue>${item[0]}</color>                                                <!--- level name (blue color because it's a link)                   -->
           </a>                                                                            <!--- I just wanted to put a comment here for aesthetic reasons lol -->
