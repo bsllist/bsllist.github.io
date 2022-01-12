@@ -1,6 +1,15 @@
 var
   list = [
+    
     [
+      "hard boss1111"
+      , "by Unknown lolololol"
+      , "youtu.be/"
+      , 77314174
+      , 60
+      , "None"
+    ]
+    , [
       "XYZ Step Infinity"
       , "by Orca SN"
       , "youtu.be/MxboAHdqiUc"
@@ -53,6 +62,14 @@ var
       , "by Waaaswad" // author(s)
       , "youtu.be/RmoKJZo2p2M " // link
       , 75780754 // id
+      , 60 // fps
+      , "None" // WR text
+    ]
+    , [
+      "wake me up 0208" // name
+      , "by AwesomeHDYT" // author(s)
+      , "youtu.be/" // link
+      , 59855036 // id
       , 60 // fps
       , "None" // WR text
     ]
