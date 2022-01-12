@@ -1,9 +1,16 @@
 var
   list = [
-    
     [
+      "Ingrown Ballhair"
+      , "by Sulferz"
+      , "youtu.be/YQfDDBwz44s"
+      , 11951751
+      , 60
+      , "No Data"
+    ]
+    , [
       "hard boss1111"
-      , "by Unknown lolololol"
+      , "by JustAMushroom"
       , "youtu.be/akFp1dDA46g"
       , 77314174
       , 60
