@@ -1,20 +1,12 @@
 var
   list = [
     [
-      "Ingrown Ballhair"
-      , "by Sulferz"
-      , "youtu.be/YQfDDBwz44s"
-      , 11951751
-      , 60
-      , "No Data"
-    ]
-    , [
-      "hard boss1111"
-      , "by JustAMushroom"
-      , "youtu.be/akFp1dDA46g"
-      , 77314174
-      , 60
+      "A 4 year old made this"
+      , "by iregretusrnames"
+      , 77391771
+      , 144
       , "None"
+      , ""
     ]
     , [
       "XYZ Step Infinity"
@@ -55,6 +47,14 @@ var
       , 1280432 // id
       , 60 // fps
       , "100%" // WR text
+    ]
+    , [
+      "hard boss1111"
+      , "by JustAMushroom"
+      , "youtu.be/akFp1dDA46g"
+      , 77314174
+      , 60
+      , "None"
     ]
     , [
       "Unfair Step" // name
