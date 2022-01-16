@@ -84,7 +84,7 @@ function display() {
       <div ${topbottom} ${bgcol} level>                                                   <!--- level container                                               -->
         <div arial normal>                                                                <!--- level info                                                    -->
           #${parseInt(i)-1}:                                                              <!--- level placement                                               -->
-          <a href="${item.length>5?`http://youtu.be/${item[5]}`:""}">                     <!--- level video                                                   -->
+          <a href="youtu.be/${item[5] || "dQw4w9WgXcQ"}">                                 <!--- level video                                                   -->
             <color blue>${item[0]}</color>                                                <!--- level name (blue color because it's a link)                   -->
           </a>                                                                            <!--- I just wanted to put a comment here for aesthetic reasons lol -->
           ${item[1]} <br> <div small>ID: ${item[3]}; FPS: ${item[4]}; WR: ${item[2]}      <!--- misc level data                                               -->
