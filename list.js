@@ -80,6 +80,7 @@ var
       , 60 // fps
       , "None" // WR text
     ]
+        // add levels here
   ]
   ;
 
