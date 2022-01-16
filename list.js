@@ -1,5 +1,6 @@
 var
-  list = [
+  countstart = 0
+  , list = [
     [
       "A 4 year old made this"
       , "iregretusrnames"
