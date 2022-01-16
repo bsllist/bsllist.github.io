@@ -3,15 +3,15 @@ var
     [
       "A 4 year old made this"
       , "iregretusrnames"
+      , null
       , 77391771
       , 144
       , "None"
-      , ""
     ]
     , [
       "XYZ Step Infinity"
       , "Orca SN"
-      , "youtu.be/MxboAHdqiUc"
+      , "MxboAHdqiUc"
       , 608361
       , 60
       , "100%"
@@ -19,7 +19,7 @@ var
     , [
       "theory of troll" // name
       , "Kracken" // author(s)
-      , "youtu.be/QacbpYrwRtk" // link
+      , "QacbpYrwRtk" // link
       , 1946486 // id
       , 60 // fps
       , "None" // WR text
@@ -27,7 +27,7 @@ var
     , [
       "T3Step" // name
       , "T3Wayne" // author(s)
-      , "youtu.be/W4fWOFg9nqg " // link
+      , "W4fWOFg9nqg " // link
       , 74579056 // id
       , 60 // fps
       , "None" // WR text
@@ -35,7 +35,7 @@ var
     , [
       "Clubstep" // name
       , "nurdPi" // author(s)
-      , "youtu.be/qClWNM7hu8M" // link
+      , "qClWNM7hu8M" // link
       , 77185951 // id
       , 60 // fps
       , "None" // WR text
@@ -43,7 +43,7 @@ var
     , [
       "Story Madness" // name
       , "Reontz" // author(s)
-      , "youtu.be/avvUMNJLohc " // link
+      , "avvUMNJLohc " // link
       , 1280432 // id
       , 60 // fps
       , "100%" // WR text
@@ -51,7 +51,7 @@ var
     , [
       "hard boss1111"
       , "JustAMushroom"
-      , "youtu.be/akFp1dDA46g"
+      , "akFp1dDA46g"
       , 77314174
       , 60
       , "None"
@@ -59,7 +59,7 @@ var
     , [
       "Unfair Step" // name
       , "trideathgamer" // author(s)
-      , "about:blank" // link
+      , null // link
       , 76441132 // id
       , 60 // fps
       , "None" // WR text
@@ -67,7 +67,7 @@ var
     , [
       "Bullsch1t Level" // name
       , "Waaaswad" // author(s)
-      , "youtu.be/RmoKJZo2p2M " // link
+      , "RmoKJZo2p2M " // link
       , 75780754 // id
       , 60 // fps
       , "None" // WR text
@@ -75,7 +75,7 @@ var
     , [
       "wake me up 0208" // name
       , "AwesomeHDYT" // author(s)
-      , "youtu.be/" // link
+      , null // link
       , 59855036 // id
       , 60 // fps
       , "None" // WR text
