@@ -2,7 +2,7 @@ var
   list = [
     [
       "A 4 year old made this"
-      , "by iregretusrnames"
+      , "iregretusrnames"
       , 77391771
       , 144
       , "None"
@@ -10,7 +10,7 @@ var
     ]
     , [
       "XYZ Step Infinity"
-      , "by Orca SN"
+      , "Orca SN"
       , "youtu.be/MxboAHdqiUc"
       , 608361
       , 60
@@ -18,7 +18,7 @@ var
     ]
     , [
       "theory of troll" // name
-      , "by Kracken" // author(s)
+      , "Kracken" // author(s)
       , "youtu.be/QacbpYrwRtk" // link
       , 1946486 // id
       , 60 // fps
@@ -26,7 +26,7 @@ var
     ]
     , [
       "T3Step" // name
-      , "by T3Wayne" // author(s)
+      , "T3Wayne" // author(s)
       , "youtu.be/W4fWOFg9nqg " // link
       , 74579056 // id
       , 60 // fps
@@ -34,7 +34,7 @@ var
     ]
     , [
       "Clubstep" // name
-      , "by nurdPi" // author(s)
+      , "nurdPi" // author(s)
       , "youtu.be/qClWNM7hu8M" // link
       , 77185951 // id
       , 60 // fps
@@ -42,7 +42,7 @@ var
     ]
     , [
       "Story Madness" // name
-      , "by Reontz" // author(s)
+      , "Reontz" // author(s)
       , "youtu.be/avvUMNJLohc " // link
       , 1280432 // id
       , 60 // fps
@@ -50,7 +50,7 @@ var
     ]
     , [
       "hard boss1111"
-      , "by JustAMushroom"
+      , "JustAMushroom"
       , "youtu.be/akFp1dDA46g"
       , 77314174
       , 60
@@ -58,7 +58,7 @@ var
     ]
     , [
       "Unfair Step" // name
-      , "by trideathgamer" // author(s)
+      , "trideathgamer" // author(s)
       , "about:blank" // link
       , 76441132 // id
       , 60 // fps
@@ -66,7 +66,7 @@ var
     ]
     , [
       "Bullsch1t Level" // name
-      , "by Waaaswad" // author(s)
+      , "Waaaswad" // author(s)
       , "youtu.be/RmoKJZo2p2M " // link
       , 75780754 // id
       , 60 // fps
@@ -74,7 +74,7 @@ var
     ]
     , [
       "wake me up 0208" // name
-      , "by AwesomeHDYT" // author(s)
+      , "AwesomeHDYT" // author(s)
       , "youtu.be/" // link
       , 59855036 // id
       , 60 // fps
@@ -87,10 +87,10 @@ var
 /* LEVEL TEMPLATE
 , [
       "" // name
-      , "by " // author(s)
-      , "youtu.be/" // link
+      , "" // author(s)
+      , "" // WR Text
       ,  // id
       , 60 // fps
-      , "" // WR text
+      , "" // yt code
     ]
     */
