@@ -87,7 +87,7 @@ function display() {
           <a href="youtu.be/${item[2] || "dQw4w9WgXcQ"}">                                 <!--- level video                                                   -->
             <color blue>${item[0]}</color>                                                <!--- level name (blue color because it's a link)                   -->
           </a>                                                                            <!--- I just wanted to put a comment here for aesthetic reasons lol -->
-          ${item[1]} <br> <div small>ID: ${item[3]}; FPS: ${item[4]}; WR: ${item[5]}      <!--- misc level data                                               -->
+          by ${item[1]} <br> <div small>ID: ${item[3]}; FPS: ${item[4]}; WR: ${item[5]}      <!--- misc level data                                               -->
         </div>
       </div>
     </div>
